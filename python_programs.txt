@@ -1,0 +1,28 @@
+Programs
+
+1. Program to ask 3 inputs from user, a multiline string, an integer and a decimal number and displaying them
+
+2. Program to print the grade - Distinction (90+), Pass(35+), Fail(<35), Error(-ve number)
+
+3. Print the following using for loop:
+
+*
+* *
+* * *
+* * * *
+
+4. create, insert, update, del, get, print on list, tuple, string, set, dict
+
+5. get sum of first 100 even numbers - one line
+6. get no. of digits in 10000!  - one line
+7. check if palindrome - one line
+8. print first 100 even numbers - one line
+9. print sum of squares of first 100 numbers
+10. create your own recursive factorial logic - one line
+11. print the pattern in problem 3  -  one line 
+12. whatever number i enter it should have 0 preceeding it to make it a 10 digit number  - one line
+i/p - 123
+o/p - 0000000123
+
+i/p - 123456789123
+o/p - 123456789123
